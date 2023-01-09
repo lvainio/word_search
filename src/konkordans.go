@@ -1,5 +1,5 @@
 /*
- * Authors: Leo Vainio, lvainio@kth.se &
+ * Authors: Leo Vainio
  */
 
 // testord: 	i (vanligaste ordet i svenskan),
